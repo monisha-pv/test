@@ -16,12 +16,13 @@ public class WelcomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome);
 
+
         startBtn = (Button) findViewById(R.id.welcome_button_startbtn);
         startBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(WelcomeActivity.this, CharacterSelectActivity.class);
-                startActivity(intent); //navigate to Character Select Activity page onclick start button
+                startActivity(intent); //navigate to Characterselect activity page onclick start button
             }
         });
     }
