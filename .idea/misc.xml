@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mvadivelu/COMP2003/comp2003_2021-group-q/Project/app/src/main/res/layout/activity_character_select.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/mvadivelu/COMP2003/comp2003_2021-group-q/Project/app/src/main/res/layout/activity_welcome.xml" value="0.5541666666666667" />
+        <entry key="app/src/main/res/layout/activity_character_select.xml" value="0.259375" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.259375" />
+        <entry key="app/src/main/res/layout/activity_how_to.xml" value="0.259375" />
+        <entry key="app/src/main/res/layout/activity_map.xml" value="0.259375" />
+        <entry key="app/src/main/res/layout/activity_qrscanner.xml" value="0.259375" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.3775788050230273" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

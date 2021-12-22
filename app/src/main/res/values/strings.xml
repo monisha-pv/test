@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">test</string>
+<string name = "home_text">Welcome to the China Fleet woodland walk!</string>
+  
+<string name="characterselect_title_text">Choose your character...</string>
+
+    <string name="continue_text">Continue</string>
+
+</resources>
