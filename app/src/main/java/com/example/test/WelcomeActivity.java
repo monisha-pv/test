@@ -21,7 +21,7 @@ public class WelcomeActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(WelcomeActivity.this, CharacterSelectActivity.class);
-                startActivity(intent); //navigate to Character Select Activity page on click start button
+                startActivity(intent); //navigate to Character Select Activity page onclick start button
             }
         });
     }
